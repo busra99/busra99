@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jr level Data Scientists from Turkey. I really enjoy <br>learning new languages. I mostly work on data science <br>and machine learning studies with Python and R. Currently<br>working on MySQL skills. 
+I'm Jr level Data Scientists from Turkey. I really enjoy learning new languages. I mostly work on data science and machine learning with Python and R. Currently working on MySQL skills. 
 
 
 ## 🌐 Socials:
